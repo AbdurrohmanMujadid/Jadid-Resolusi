@@ -2,3 +2,4 @@ JADID RESOLUSI
 - Konsisten untuk belajar coding sehari sebanyak 2 jam 
 - Menonton tutorial Coding untuk menambah wawasan sebanyak 2 jam 
 - Olahraga setiap hari sesuai ketentuan yang sudah tertulis
+- Membuat Website sendiri dengan menggunakan HTML CSS JavaScript
